@@ -3,7 +3,7 @@ const CONFIG = {
     subQuestion: "Please say yes ",
     yesButton: "YES",
     noButton: "NO",
-    noEscapeTexts: ["Eits, ga bisa😝", "Hehe, coba lagi 😜", "Yaudah deh, aku anggap YES ya! 💕"],
+    noEscapeTexts: ["rilll kahhhh😝", "Mang eakkkkk😜", "Hmmmmm, mas pilihin YES aja yaaaa! 💕"],
     confirmTitle: "YEAAAY! Kamu Beneran Mau 💗",
     confirmText: "Mulai dari sekarang kamu resmi jadi…",
     badgeText: "My Valentine",
